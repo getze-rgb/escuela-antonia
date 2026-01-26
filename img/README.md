@@ -2,8 +2,7 @@ img/README.md
 
 
 
-<img width="168" height="255" alt="image"
-  src="https://github.com/user-attachments/assets/09e90897-b33f-4e40-adbe-fa5350af2956" />
+![_ RITUAL DE AGUA DE MAR__Limpieza energética y apertura de caminos__(Puedes poner sonido de olas de fondo)__✨ Inicio _ Hook (0–5 seg)_“Si has sentido cansancio, bloqueos o energía pesada, este  (3)](https://github.com/user-attachments/assets/72ab3a98-15e4-40ba-9874-147787bd4995)
 
 
 
