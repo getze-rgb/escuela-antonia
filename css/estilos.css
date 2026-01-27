@@ -10,9 +10,9 @@ body {
 }
 
 .escudo.jpg {
-   width: 60px !important;
-  max-width: 60px !important;
-  height: auto !important;
+   width: 60px;
+  max-width: 60px;
+  height: auto;
 }
 
 .texto-encabezado h1 {
