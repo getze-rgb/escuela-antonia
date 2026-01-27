@@ -9,9 +9,10 @@ body {
   gap: 15px;
 }
 
-.escudo {
-  width: 80px;      /* tamaño del escudo */
-  height: auto;
+.escudo.jpg {
+   width: 60px !important;
+  max-width: 60px !important;
+  height: auto !important;
 }
 
 .texto-encabezado h1 {
