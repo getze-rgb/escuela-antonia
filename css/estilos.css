@@ -10,17 +10,17 @@ body {
 }
 
 .escudo.jpg {
-  width: 10px;
-  max-width: 10px;
+  width: 50px;
+  max-width: 50px;
   height: auto;
 }
 
 .texto-encabezado h1 {
-  margin: 10;
+  margin: 1;
 }
 
 .texto-encabezado p {
-  margin: 1px 0 0;
+  margin: 5px 5 5;
 }
 
 }
