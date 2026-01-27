@@ -1,10 +1,27 @@
 css/estilos.css
 body {
   background-color: #f4f6f5;
-  .escudo.jpg {
-  width: 120px;
+  /* ===== ENCABEZADO CON ESCUDO ===== */
+.encabezado-contenido {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+
+.escudo {
+  width: 80px;      /* tamaño del escudo */
   height: auto;
-  margin-bottom: 10px;
+}
+
+.texto-encabezado h1 {
+  margin: 0;
+}
+
+.texto-encabezado p {
+  margin: 5px 0 0;
+}
+
 }
 
 }
