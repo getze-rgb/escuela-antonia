@@ -24,7 +24,7 @@ body {
 }
 
 /* ESCUDO (AQUÍ SE CONTROLA EL TAMAÑO) */
-.escudo.jpg {
+.anc.jpg {
   width: 40px;      /* 👈 tamaño pequeño */
   height: auto;
 }
