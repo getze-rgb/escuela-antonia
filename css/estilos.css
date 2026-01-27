@@ -10,9 +10,9 @@ body {
 }
 
 .escudo.jpg {
-  width: 5px;
-  max-width: 5px;
-  height: auto;
+  width: 0px;
+  max-width: 0px;
+  height: pequeño;
 }
 
 .texto-encabezado h1 {
