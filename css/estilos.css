@@ -1,42 +1,41 @@
-css/estilos.css
+
+/* ===== ESTILO GENERAL ===== */
 body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
   background-color: #f4f6f5;
-  /* ===== ENCABEZADO CON ESCUDO ===== */
+  color: #333;
+}
+
+/* ===== ENCABEZADO ===== */
+.encabezado {
+  background-color: #2e7d32;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+/* CONTENEDOR DEL ESCUDO Y TEXTO */
 .encabezado-contenido {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 2px;
+  gap: 10px;
 }
 
-.escudo.jpg {
-  width: 20px;
-  max-width: 20px;
- 
+/* ESCUDO (AQUÍ SE CONTROLA EL TAMAÑO) */
+.escudo {
+  width: 40px;      /* 👈 tamaño pequeño */
+  height: auto;
 }
 
+/* TEXTO */
 .texto-encabezado h1 {
-  margin: 1;
+  margin: 0;
+  font-size: 22px;
 }
 
 .texto-encabezado p {
-  margin: 5px 5 5;
+  margin: 4px 0 0;
+  font-size: 14px;
 }
-
-}
-
-}
-
-
-
-
-
-
-
-
-
-
-
-css/
- └── estilos.css
-
