@@ -1,6 +1,12 @@
 css/estilos.css
 body {
   background-color: #f4f6f5;
+  .escudo {
+  width: 120px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
 }
 
 
