@@ -16,11 +16,11 @@ body {
 }
 
 .texto-encabezado h1 {
-  margin: 0;
+  margin: 10;
 }
 
 .texto-encabezado p {
-  margin: 5px 0 0;
+  margin: 1px 0 0;
 }
 
 }
