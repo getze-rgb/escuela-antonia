@@ -25,7 +25,7 @@ body {
 
 /* ESCUDO (AQUÍ SE CONTROLA EL TAMAÑO) */
 .anc.jpg {
-  width: 40px;      /* 👈 tamaño pequeño */
+  width: 20px;      /* 👈 tamaño pequeño */
   height: auto;
 }
 
